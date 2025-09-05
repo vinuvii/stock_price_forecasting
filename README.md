@@ -22,6 +22,3 @@ A machine learning project that predicts stock prices for Intel (INTC), Domino's
 ## Limitations
 - Historical data only - market unpredictability affects accuracy
 - External factors (news, events) not included in model
-
-**Author:** Nuhansa D.H.V. (216088J)  
-**License:** MIT
